@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01.SingleInheritance/01.SingleInheritance.vcxproj" Id="365a54a2-f880-4b53-a810-6f0c1ac3294c" />
+  <Project Path="02.MultipleInheritance/02.MultipleInheritance.vcxproj" Id="0322d433-c5b8-4556-8935-707636c8bb49" />
+  <Project Path="03.DiamondVirtual/03.DiamondVirtual.vcxproj" Id="54a021c0-f2ad-441b-b302-8f0bd5822b07" />
+  <Project Path="HomeWork32/HomeWork32.vcxproj" Id="fc780c12-39ad-4062-b6b8-bf175b5159a1" />
+</Solution>
